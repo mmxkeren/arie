@@ -1,0 +1,18 @@
+{
+    "name": "bekup/profile-arie",
+    "authors": [
+        {
+            "name": "Arie Iskandar",
+            "email": "mmxkeren@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^2.2",
+        "components/jquery": "^3.1",
+        "twbs/bootstrap": "^3.3",
+        "FortAwesome/Font-Awesome": "^4.7",
+        "ellislab/codeigniter":"3.1.1",
+        "codeigniter/framework": "^3.1"
+    }
+}
+
